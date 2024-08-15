@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @danikishin
-- 👀 I’m interested in .NET, React, Tailwind, Rust
-- 🌱 I’m currently learning next.js, tailwind
 - 💞️ I’m looking to collaborate on anything i like
 - 📫 How to reach me, danikishin18@gmail.com
 
